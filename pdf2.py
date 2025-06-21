@@ -21,7 +21,7 @@ SESSION = {
     "chunks": []
 }
 
-SERPAPI_KEY = "db1864850f1245b6c1a1bf962be2e1511580c34d3b64a416d2a3c298f47fcf0c"
+SERPAPI_KEY = ""
 
 def search_google_scholar(query, max_results=2):
     print(f"\n[+] Searching Google for top papers related to: '{query}'")
